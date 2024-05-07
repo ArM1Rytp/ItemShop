@@ -1,12 +1,12 @@
-EID_Basketball, 500
-CID_338_Athena_Commando_M_DumplingMan, 1500
-CID_150_Athena_Commando_F_SoccerGirlC, 1500
+EID_SquishyDance, 0
+CID_333_Athena_Commando_M_Squishy, 0
+Pickaxe_ID_154_Squishy, 0
 na
 na
 na
-Wrap_154_Haunt, 500
-Glider_ID_005_HolidaySweater, 800
-EID_LookAtThis, 500
-Pickaxe_ID_267_RaptorBlackOps, 800
-Pickaxe_ID_182_PirateWheel, 800
-CID_522_Athena_Commando_M_Bullseye, 1200
+Wrap_024_StealthBlack, 300
+Glider_ID_174_SleepyTime, 800
+EID_BillyBounce, 500
+Pickaxe_ID_179_StarWand, 800
+Pickaxe_ID_095_FootballTrophy, 800
+CID_344_Athena_Commando_M_IceCream, 1200
